@@ -43,3 +43,8 @@ ChangeLog
 geckodriver.log
 package-lock.json
 test_reports/*
+
+# Daavo test development
+.python-version
+.vscode
+.venv
